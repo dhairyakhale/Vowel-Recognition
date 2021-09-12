@@ -1,0 +1,5 @@
+Accuracy for vowel a: 100 
+Accuracy for vowel e: 100 
+Accuracy for vowel i: 80 
+Accuracy for vowel o: 100 
+Accuracy for vowel u: 100 
